@@ -2,7 +2,7 @@
 
 I had a great time working with the Tello this semester!
 
-Programs:
+Programs(All use the DJI Tello API wrapper):
 
 BasicMovements - What I spent my first time on, just trying to connect to the Drone with the wrapper (which took longer than I expected) and getting it to fly around and land.
 
