@@ -10,6 +10,7 @@ FaceTracking - Uses a cv2 haar cascade and follows closest detectable person's f
 
 HydroFlaskFinder - This is the one I'm proudest of and took the longest as I did all of it entirely through trial and error on my own.  Figuring out how
 to use the mission pads was tough and I also had to learn threading to pass tello commands while it searches for a water bottle, then lands once it finds it. (Video Uploaded)
+
 KeyBoardControl - My first attempt at controlling the drone from my pc with the KeyPress Module.
 
 Mapping - This one doesn't work great, it uses pygame to map points on a screen as you press keys to control it.
